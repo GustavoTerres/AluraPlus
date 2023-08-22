@@ -43,6 +43,7 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal);
     border-radius: 16px;
+    text-decoration: none;
 
 }
 
